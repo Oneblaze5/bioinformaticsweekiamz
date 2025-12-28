@@ -1,1 +1,1 @@
-This is an example of README.md file
+This is a simple README file in Markdown format
